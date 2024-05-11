@@ -8,3 +8,6 @@ Here automation of below processes are done by one click using python and the co
 6)Then i need to click on 'import'
 7)then i need to click on 'validate data'
 
+Video of automation process doing above mentioned process in one click:
+
+https://github.com/mdhaideryt/Automation-of-logging-in-uploading-file-taking-screenshhot/assets/110153614/bf596e10-7251-45f9-9557-73e18b7a44d1
